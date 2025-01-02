@@ -1,0 +1,97 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family:'Poppins',sans-serif;
+}
+.nav{
+    width: 100%;
+    height: 100%;
+    background: #fd6569;
+    padding:40px;
+    font-size: 40px;
+}
+.a{
+    
+    padding: 10px;
+    display: inline-block;
+    
+}
+.b{
+     margin:10px;
+     padding :10px;
+     width: 25%;
+    background-color: black;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+}
+.c{
+   color: #fd6569;
+}
+
+.f{
+background-color: #fd6569;
+color:black;
+border-radius: 10px;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 10px;
+padding-right: 10px;
+border: none;
+margin-top: 10px;
+}
+.addbutton{
+    border-radius: 100%;
+    margin-left: 95%;
+    padding: 15px;
+    background-color: #fd6569;
+    position:fixed;
+    bottom: 30px;
+    right: 30px;
+    border: none;
+}
+.i{
+    top: 0;
+    left: 0;
+    background-color: black;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+    display: none;
+    z-index: 1;
+
+}
+.j{
+    height: 50%;
+    width: 40%;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    padding: 10px;
+    background-color: #fd6569;
+    z-index: 2;
+    display: none;
+}
+.l,.m,.n{
+    width: 90%;
+    margin-top:  10px;
+    margin-left: 0px;
+    background-color: transparent;
+    padding: 20px;
+    border: none;
+    border-bottom: solid ;
+    font-weight: 100;
+}
+.o,.p{
+    padding: 10px;
+    margin-left: 20%;
+    margin-top :25px; 
+    background-color: black;
+    color: white;
+}
+.k{
+    text-align: center;
+}
